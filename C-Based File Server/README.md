@@ -20,8 +20,8 @@ IMPORTANT NOTE:	Be sure to wait for a couple of seconds before you exit the file
 
 - Read:		'read <path/to/file/>'
 - Empty:	'empty <path/to/file/>'
-		NOTE: 	It is expected for the path to file to not have speces in between. 	
-			If there is a second space in the read/empty command entered, the saidspace and the characters on its right will be disregarded.
+	NOTE: 	It is expected for the path to file to not have speces in between. 	
+		If there is a second space in the read/empty command entered, the saidspace and the characters on its right will be disregarded.
 
 <path/to/file/> FORMAT:
 - when you want to do operations in the same file directory as the file server:
