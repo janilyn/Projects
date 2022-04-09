@@ -1,0 +1,4 @@
+empty text.txt: FILE ALREADY EMPTY
+empty text.txt: Somewhere amidst endless snow stands the lone castle of ice. 
+empty test.txt: Somewhere amidst endless snow stands the lone castle of ice. In its halls of perpetual twilight dwells Frost Queen Cookie, the sovereign of winter itself. 
+empty text.txt: In its halls of perpetual twilight dwells Frost Queen Cookie, the sovereign of winter itself. 

@@ -1,0 +1,28 @@
+[Sun Jan 16 22:56:55 2022] write test.txt Somewhere amidst endless snow 
+[Sun Jan 16 22:56:55 2022] write test.txt stands the lone castle of ice. 
+[Sun Jan 16 22:56:55 2022] empty text.txt
+[Sun Jan 16 22:56:55 2022] write text.txt Somewhere amidst endless snow 
+[Sun Jan 16 22:56:55 2022] write text.txt stands the lone castle of ice. 
+[Sun Jan 16 22:56:55 2022] empty text.txt
+[Sun Jan 16 22:56:55 2022] write test.txt In its halls of perpetual twilight dwells 
+[Sun Jan 16 22:56:55 2022] write test.txt Frost Queen Cookie, the sovereign of winter itself. 
+[Sun Jan 16 22:56:55 2022] write text.txt In its halls of perpetual twilight dwells 
+[Sun Jan 16 22:56:55 2022] write text.txt Frost Queen Cookie, the sovereign of winter itself. 
+[Sun Jan 16 22:56:55 2022] 
+[Sun Jan 16 22:57:03 2022] read text.txt
+[Sun Jan 16 22:57:03 2022] read test.txt
+[Sun Jan 16 22:57:03 2022] 
+[Sun Jan 16 22:57:03 2022] 
+[Sun Jan 16 22:57:03 2022] empty test.txt
+[Sun Jan 16 22:57:03 2022] empty text.txt
+[Sun Jan 16 22:57:03 2022] 
+[Sun Jan 16 22:57:06 2022] read text.txt
+[Sun Jan 16 22:57:42 2022] write test.txt Somewhere amidst endless snow 
+[Sun Jan 16 22:57:42 2022] write test.txt stands the lone castle of ice. 
+[Sun Jan 16 22:57:42 2022] write text.txt Somewhere amidst endless snow 
+[Sun Jan 16 22:57:42 2022] write text.txt stands the lone castle of ice. 
+[Sun Jan 16 22:57:42 2022] write test.txt In its halls of perpetual twilight dwells 
+[Sun Jan 16 22:57:42 2022] write test.txt Frost Queen Cookie, the sovereign of winter itself. 
+[Sun Jan 16 22:57:42 2022] write text.txt In its halls of perpetual twilight dwells 
+[Sun Jan 16 22:57:42 2022] write text.txt Frost Queen Cookie, the sovereign of winter itself. 
+[Sun Jan 16 22:57:43 2022] 

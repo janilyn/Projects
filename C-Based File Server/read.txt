@@ -1,0 +1,3 @@
+read text.txt: In its halls of perpetual twilight dwells Frost Queen Cookie, the sovereign of winter itself. 
+read test.txt: Somewhere amidst endless snow stands the lone castle of ice. In its halls of perpetual twilight dwells Frost Queen Cookie, the sovereign of winter itself. 
+read text.txt: In its halls of perpetual twilight dwells Frost Queen Cookie, the sovereign of winter itself. 
