@@ -1,0 +1,35 @@
+from obj_1stpuzzle import p1, p2, p3, p4, p5, p6, p7, p8 ,p9, po_lvl1sprite, bg2sprite, gameoversprite, back_basesprite, back_hoversprite, back_presssprite, highscore_basesprite, highscore_hoversprite, highscore_presssprite
+from obj_2ndpuzzle import p1a, p2a, p3a, p4a, p5a, p6a, p7a, p8a, p9a, p10a, p11a, p12a, p13a, p14a, p15a, p16a, p17a, p18a, p19a, p20a, bg3sprite, po_lvl2sprite, gfsprite
+import obj_input_name
+
+def resetposition():
+    obj_input_name.key_label.text = ''
+    p1.position = (640, 235)
+    p2.position = (520, 120)
+    p3.position = (655, 500)
+    p4.position = (490, 455)
+    p5.position = (495, 265)
+    p6.position = (680, 40)
+    p7.position = (310, 460)
+    p8.position = (515, 22)
+    p9.position = (660, 370)
+    p1a.position = (690, 267)
+    p2a.position = (484, 230)
+    p3a.position = (560, 520)
+    p4a.position = (685, 17)
+    p5a.position = (477, 461)
+    p6a.position = (670, 526)
+    p7a.position = (455, 10)
+    p8a.position = (600, 338)
+    p9a.position = (689, 438)
+    p10a.position = (328, 7)
+    p11a.position = (690, 92)
+    p12a.position = (449, 536)
+    p13a.position = (597, 245)
+    p14a.position = (670, 173)
+    p15a.position = (583, 440)
+    p16a.position = (574, 10)
+    p17a.position = (692, 354)
+    p18a.position = (485, 330)
+    p19a.position = (568, 135)
+    p20a.position = (355, 462)
